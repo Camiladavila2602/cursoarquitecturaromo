@@ -11,19 +11,6 @@
         "runtime": {
           "bin/placeholder/NorthWind.Entities.dll": {}
         }
-      },
-      "NorthWind.Writers/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v7.0",
-        "dependencies": {
-          "NorthWind.Entities": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/NorthWind.Writers.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/NorthWind.Writers.dll": {}
-        }
       }
     }
   },
@@ -32,17 +19,11 @@
       "type": "project",
       "path": "../NorthWind.Entities/NorthWind.Entities.csproj",
       "msbuildProject": "../NorthWind.Entities/NorthWind.Entities.csproj"
-    },
-    "NorthWind.Writers/1.0.0": {
-      "type": "project",
-      "path": "../NorthWind.Writers/NorthWind.Writers.csproj",
-      "msbuildProject": "../NorthWind.Writers/NorthWind.Writers.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "NorthWind.Entities >= 1.0.0",
-      "NorthWind.Writers >= 1.0.0"
+      "NorthWind.Entities >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -51,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\cursoarquitectura\\Northwind\\NorthWind\\Northwind.ConsoleApp\\Northwind.ConsoleApp.csproj",
-      "projectName": "Northwind.ConsoleApp",
-      "projectPath": "C:\\cursoarquitectura\\Northwind\\NorthWind\\Northwind.ConsoleApp\\Northwind.ConsoleApp.csproj",
+      "projectUniqueName": "C:\\cursoarquitectura\\Northwind\\NorthWind\\NorthWind.Writers\\NorthWind.Writers.csproj",
+      "projectName": "NorthWind.Writers",
+      "projectPath": "C:\\cursoarquitectura\\Northwind\\NorthWind\\NorthWind.Writers\\NorthWind.Writers.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\cursoarquitectura\\Northwind\\NorthWind\\Northwind.ConsoleApp\\obj\\",
+      "outputPath": "C:\\cursoarquitectura\\Northwind\\NorthWind\\NorthWind.Writers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -74,9 +55,6 @@
           "projectReferences": {
             "C:\\cursoarquitectura\\Northwind\\NorthWind\\NorthWind.Entities\\NorthWind.Entities.csproj": {
               "projectPath": "C:\\cursoarquitectura\\Northwind\\NorthWind\\NorthWind.Entities\\NorthWind.Entities.csproj"
-            },
-            "C:\\cursoarquitectura\\Northwind\\NorthWind\\NorthWind.Writers\\NorthWind.Writers.csproj": {
-              "projectPath": "C:\\cursoarquitectura\\Northwind\\NorthWind\\NorthWind.Writers\\NorthWind.Writers.csproj"
             }
           }
         }
