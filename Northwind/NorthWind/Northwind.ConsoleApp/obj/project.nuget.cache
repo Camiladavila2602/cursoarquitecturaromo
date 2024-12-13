@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "JbAEB2zrMJFaG8fFO6ID+Oyi1eQG7OZzi0lP3Lc0+4puQBZylbBtbbm938CAMb2vr3EyXhCKabUImPr9bGJxlQ==",
+  "dgSpecHash": "T41mbJLRlYn1O8ioJYQZ95hK1mmQWgYPrNZ+GlGZvOWPqU5pl9516iSezdTJa/Rc0crALchELaZ5/biNY8D3cA==",
   "success": true,
   "projectFilePath": "C:\\cursoarquitectura\\Northwind\\NorthWind\\Northwind.ConsoleApp\\Northwind.ConsoleApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

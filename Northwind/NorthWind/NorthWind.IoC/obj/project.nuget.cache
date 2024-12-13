@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IE3dFggcaiin/NBN70ynOgs4Y7aCiNab6pJ27m1Ys2CB2S2OH99DMevZD1e58Wmy5TSODVxyMlGviFGWV/uKGQ==",
+  "dgSpecHash": "sxexM8mRrAR30QbEgh968OiEVAK60lL41ctsaUQab16XIx2FoEozvDyaux2yWg1KNyiTTno0uEyrZqB2bZQTag==",
   "success": true,
-  "projectFilePath": "C:\\cursoarquitectura\\Northwind\\NorthWind\\NorthWind.Writers\\NorthWind.Writers.csproj",
+  "projectFilePath": "C:\\cursoarquitectura\\Northwind\\NorthWind\\NorthWind.IoC\\NorthWind.IoC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512"
   ],
