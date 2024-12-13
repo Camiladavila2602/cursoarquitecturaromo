@@ -1,8 +1,17 @@
 {
   "ExpandedNodes": [
     "",
-    "\\MyLibrary"
+    "\\Northwind",
+    "\\Northwind\\ClassLibrary1",
+    "\\Northwind\\ClassLibrary1\\obj",
+    "\\Northwind\\ClassLibrary1\\obj\\Debug",
+    "\\Northwind\\ClassLibrary1\\obj\\Debug\\net7.0",
+    "\\Northwind\\ClassLibrary1\\obj\\Release",
+    "\\Northwind\\ClassLibrary1\\obj\\Release\\net7.0",
+    "\\ProyectoLibrary",
+    "\\ProyectoLibrary\\ConsoleApp",
+    "\\ProyectoLibrary\\MyLibrary"
   ],
-  "SelectedNode": "\\MyLibrary",
+  "SelectedNode": "\\ProyectoLibrary\\MyLibrary\\MyLibrary.sln",
   "PreviewInSolutionExplorer": false
 }
